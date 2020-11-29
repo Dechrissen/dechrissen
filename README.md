@@ -1,8 +1,5 @@
-## About Me
+Hi, I'm Derek
 
-```diff
-! I'm Dechrissen.
-```
+![Dechrissen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dechrissen&theme=darcula&show_icons=true)  
 
-![Dechrissen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dechrissen&theme=darcula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dechrissen&langs_count=10&exclude_repo=derekandersen.net&layout=compact)](https://github.com/dechrissen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dechrissen&langs_count=10&exclude_repo=derekandersen.net&layout=compact&theme=darcula)](https://github.com/dechrissen/github-readme-stats)

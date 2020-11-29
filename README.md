@@ -1,5 +1,10 @@
-Hi, I'm Derek
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=dechrissen&label=Views&color=orange&style=flat" alt="views-dechrissen" />
+ </p>
 
-![Dechrissen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dechrissen&theme=darcula&show_icons=true)  
+### About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dechrissen&langs_count=10&exclude_repo=derekandersen.net&layout=compact&theme=darcula)](https://github.com/dechrissen/github-readme-stats)
+- Graduate student studying Computational Linguistics.  
+- Interested in NLP and web development.  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dechrissen&langs_count=10&exclude_repo=derekandersen.net&layout=compact&theme=slateorange)](https://github.com/dechrissen/github-readme-stats)

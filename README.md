@@ -6,5 +6,6 @@
 
 - Graduate student studying Computational Linguistics.  
 - Interested in NLP and web development.  
+- Enjoy video games on Nintendo 64 and Game Boy.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dechrissen&langs_count=10&exclude_repo=derekandersen.net&layout=compact&theme=slateorange)](https://github.com/dechrissen/github-readme-stats)

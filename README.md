@@ -1,7 +1,3 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=dechrissen&label=Views&color=orange&style=flat" alt="views-dechrissen" />
- </p>
-
 ### About me
 
 - Graduate student studying Computational Linguistics.  

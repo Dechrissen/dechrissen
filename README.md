@@ -4,6 +4,8 @@
 - I am interested in **web development** and design, including UX design and **typography**.
 - I am interested in linguistics as it applies to **language technology** and NLP.
 
+## Links
+
 ☕ My personal website → [derekandersen.net](https://derekandersen.net/)  
 📄 My CV webpage → [dechrissen.github.io](https://dechrissen.github.io/)
 

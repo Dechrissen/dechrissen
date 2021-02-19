@@ -1,4 +1,4 @@
-### About me
+# About me
 
 - I have an M.A. in **Computational Linguistics** from Stony Brook University.  
 - I am interested in **web development** and design, including UX design and **typography**.

@@ -3,6 +3,7 @@
 - I have an M.A. in **Computational Linguistics** from Stony Brook University.  
 - I am interested in **web development** and design, including UX design and **typography**.
 - I am interested in linguistics as it applies to **language technology** and NLP.
+- I enjoy video games, and I have plans to learn about **game dev** in the near future.
 
 ### Links
 

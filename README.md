@@ -9,5 +9,3 @@
 
 ☕ Personal website → [derekandersen.net](https://derekandersen.net/)  
 📄 CV webpage → [dechrissen.github.io](https://dechrissen.github.io/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dechrissen&langs_count=10&exclude_repo=derekandersen.net&layout=compact&theme=react)](https://github.com/dechrissen/github-readme-stats)

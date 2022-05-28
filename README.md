@@ -1,8 +1,8 @@
 # About me
 
-- I have a Master's degree in **Computational Linguistics** from Stony Brook University.
+I have a Master's degree in **Computational Linguistics** from Stony Brook University.
 
-**Interests**
+### Interests
 - natural language understanding / linguistics
 - web development
 - typography

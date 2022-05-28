@@ -1,15 +1,16 @@
 # About me
 
-I have a Master's degree in **Computational Linguistics** from Stony Brook University.
+I have a Master's degree in **Computational Linguistics** from Stony Brook University.  
+I like to work on [projects](https://derekandersen.net/projects).
 
 ### Interests
-- natural language understanding / linguistics
 - web development
 - typography
 - video games
 - game development
+- natural language understanding / linguistics
 
 ### Links
 
 - Personal website → [derekandersen.net](https://derekandersen.net/)  
-- Professional webpage → [dechrissen.github.io](https://dechrissen.github.io/)
+- Academic webpage → [dechrissen.github.io](https://dechrissen.github.io/)

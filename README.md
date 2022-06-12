@@ -5,9 +5,8 @@ I like to work on [projects](https://derekandersen.net/projects).
 
 ### Interests
 - web development
-- typography
-- video games
-- game development
+- IoT / smart home
+- video games / game development
 - natural language understanding / linguistics
 
 ### Links

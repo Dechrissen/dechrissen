@@ -1,7 +1,7 @@
 # About me
 
 I have a Master's degree in **Computational Linguistics** from Stony Brook University.  
-I like to work on [projects](https://derekandersen.net/projects).
+I like to work on [projects](https://derekandersen.net/projects) and tinker with computer hardware.
 
 ### Interests
 

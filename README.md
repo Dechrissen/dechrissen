@@ -4,6 +4,9 @@ I have a Master's degree in **Computational Linguistics** from Stony Brook Unive
 I like to work on [projects](https://derekandersen.net/projects).
 
 ### Interests
+
+- Linux / FOSS
+- computer hardware
 - web development
 - IoT / smart home
 - video games / game development

@@ -7,7 +7,6 @@ I like to work on [projects](https://derekandersen.net/projects) and tinker with
 
 - Linux / FOSS
 - computer hardware
-- web development
 - IoT / smart home
 - video games / game development
 - natural language understanding / linguistics

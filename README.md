@@ -1,14 +1,13 @@
 # About me
 
 I studied **Computational Linguistics** at Stony Brook University, earning a Master's degree in 2021.  
-I like to work on [projects](https://derekandersen.net/projects) and tinker with computer hardware.
+I like to work on [projects](https://derekandersen.net/projects) and tinker.
 
 ### Interests
 
-- Linux / FOSS
 - computer hardware
-- IoT / smart home
-- video games / game development
+- smart home things
+- games / game development
 - natural language understanding / linguistics
 
 ### Links

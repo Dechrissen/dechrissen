@@ -1,6 +1,6 @@
 # About me
 
-I studied **Computational Linguistics** at Stony Brook University, earning a Master's degree in 2021.  
+Earned a Master's degree in Computational Linguistics at Stony Brook University in 2021.  
 I like to work on [projects](https://derekandersen.net/projects) and tinker.
 
 ### Interests

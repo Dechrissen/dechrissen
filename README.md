@@ -6,9 +6,9 @@ I like to work on [projects](https://derekandersen.net/projects) and tinker.
 ### Interests
 
 - computer hardware
-- smart home things
-- games / game development
-- natural language understanding / linguistics
+- home tech and networking
+- games & game development
+- linguistics / natural language understanding
 
 ### Links
 

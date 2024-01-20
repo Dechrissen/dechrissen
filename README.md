@@ -1,16 +1,16 @@
 # About me
 
 I earned a Master's degree in Computational Linguistics at Stony Brook University in 2021.  
-I like to work on [projects](https://derekandersen.net/projects) and tinker. I'm a big fan of Pokémon.
+In my free time, I like to work on [my projects](https://derekandersen.net/projects).
 
-### Interests
+## Interests
 
 - computer hardware
-- home tech, practical IoT, networking
+- home systems, practical IoT, networking
 - games & game development
 - linguistics / natural language understanding
 
-### Links
+## Pages
 
-- Personal website → [derekandersen.net](https://derekandersen.net/)  
-- Professional webpage → [dechrissen.github.io](https://dechrissen.github.io/)
+- [Personal website](https://derekandersen.net/)  
+- [Professional webpage](https://dechrissen.github.io/)

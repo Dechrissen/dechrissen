@@ -8,7 +8,8 @@ In my free time, I like to work on [various projects](https://derekandersen.net/
 - linguistics and natural language processing/understanding
 - computer hardware
 - home systems, practical IoT, networking
-- retro gaming (NES, SNES, N64, GameBoy) and general game development
+- retro gaming (some of my favorites include NES, SNES, N64, GameCube, GameBoy)
+- game development
 
 ## Pages
 

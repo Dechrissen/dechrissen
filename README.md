@@ -1,6 +1,6 @@
 # About Me
 
-I have a Master's degree in Computational Linguistics from Stony Brook University (2021).  
+I have a Master's degree in Computational Linguistics from Stony Brook University in 2021.  
 In my free time, I like to work on [various projects](https://derekandersen.net/projects).
 
 ## Interests
@@ -8,7 +8,7 @@ In my free time, I like to work on [various projects](https://derekandersen.net/
 - linguistics and natural language processing/understanding
 - computer hardware
 - home systems, practical IoT, networking
-- retro gaming (NES, SNES, N64) and general game development
+- retro gaming (NES, SNES, N64, GameBoy) and general game development
 
 ## Pages
 

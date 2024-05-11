@@ -5,9 +5,9 @@ In my free time, I like to work on [various projects](https://derekandersen.net/
 
 ## Interests
 
-- linguistics, natural language processing/understanding
+- computational linguistics, natural language processing/understanding
 - computer hardware
-- home systems, practical IoT, networking
+- web development & networking
 - retro gaming (some of my favorites: NES, SNES, N64, GameBoy)
 - game development
 

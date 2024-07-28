@@ -5,11 +5,11 @@ In my free time, I like to work on [various personal projects](https://derekande
 
 ## Interests
 
-- computational linguistics, natural language processing/understanding
-- web development & networking
+- computational linguistics / NLP
 - computer hardware
-- retro gaming (some of my favorites: NES, SNES, N64, GameBoy)
+- retro games (some of my favorites: Game Boy, SNES, N64)
 - game development
+- networking & web development
 
 ## Pages
 

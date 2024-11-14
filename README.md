@@ -1,17 +1,21 @@
-Hi, I'm Derek. I have a Master's degree in Computational Linguistics from Stony Brook University.  
-I like to spend my free time working on [personal projects](https://derekandersen.net/projects), writing for [my blog](https://derekandersen.net/blog), or playing video games.
+Hi. I'm Derek. I'm a developer who holds a Master’s in Computational Linguistics from Stony Brook University.  
 
-#### Interests of mine
+I spend my free time working on [projects](https://derekandersen.net/projects), writing for my [blog](https://derekandersen.net/blog), or playing video games (usually retro ones).
 
-- Web development & networking
-- Software development
-- Computational linguistics / NLP
+### Interests
+
+- Software and web development
+- Linguistics and NLP
 - Computer hardware
+- Network infrastructure
 - Game development
-- Retro games
+- Writing
 
-#### Relevant links
+### Links
 
-- [Portfolio webpage](https://dechrissen.github.io/)
+- [Résumé](https://dechrissen.github.io/assets/resume.pdf)
+- [Portfolio](https://dechrissen.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/derekcandersen/)
-- [Personal website](https://www.derekandersen.net/) 
+- [Website](https://www.derekandersen.net/)
+
+Want to contact me? [Send me an email](mailto:andersen.derek@proton.me).

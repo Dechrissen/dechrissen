@@ -5,10 +5,9 @@ I spend my free time working on [projects](https://derekandersen.net/projects), 
 ### Interests
 
 - Software and web development
-- Linguistics and NLP
-- Computer hardware
-- Network infrastructure
-- Game development
+- Machine learning
+- Linguistics & NLP
+- Linux
 - Writing
 
 ### Links
@@ -18,4 +17,4 @@ I spend my free time working on [projects](https://derekandersen.net/projects), 
 - [LinkedIn](https://www.linkedin.com/in/derekcandersen/)
 - [Website](https://www.derekandersen.net/)
 
-Want to contact me? [Send me an email](mailto:andersen.derek@proton.me).
+Want to contact me? [Send me an email](derek@derekandersen.net).

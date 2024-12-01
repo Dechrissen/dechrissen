@@ -1,5 +1,5 @@
 Hi. I'm Derek. I'm a developer who holds a Master’s degree in Computational Linguistics from Stony Brook University.  
-I spend my free time working on [projects](https://derekandersen.net/projects), writing for my [blog](https://derekandersen.net/blog), or playing video games.
+I spend my free time working on [software projects](https://www.derekandersen.net/projects), writing for my [blog](https://www.derekandersen.net/blog), or playing video games.
 
 ### Interests
 

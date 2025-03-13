@@ -1,10 +1,9 @@
 I'm Derek. I'm a linguist & developer with a Master’s degree in Computational Linguistics from Stony Brook University.  
-I spend my free time working on [software projects](https://www.derekandersen.net/projects), writing for my [blog](https://www.derekandersen.net/blog), and playing video games.
+I spend my free time working on [projects](https://www.derekandersen.net/projects), writing for my [blog](https://www.derekandersen.net/blog), and playing video games.
 
 ### Interests
 
 - Linguistics & NLP
-- Machine learning
 - Game development
 - Linux
 - Writing

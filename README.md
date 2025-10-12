@@ -1,4 +1,4 @@
-Check this stuff out.
+Check my websites out.
 
 - [Portfolio site](https://dechrissen.github.io/)
 - [Personal site](https://www.derekandersen.net/)
